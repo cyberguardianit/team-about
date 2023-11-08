@@ -14,4 +14,4 @@
 - [Topologies and Visuals](topologies-and-visuals.md)
 
 ## Additional Resources
--Team PM Tool: https://app.slack.com/huddle/T039KG69K/C064H6LG0G6
+-Team PM Tool: [Slack](https://app.slack.com/huddle/T039KG69K/C064H6LG0G6)
