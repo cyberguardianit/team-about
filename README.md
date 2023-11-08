@@ -16,3 +16,4 @@
 ## Additional Resources
 - [Team PM Tool](https://app.slack.com/huddle/T039KG69K/C064H6LG0G6)
 - [Scheduler](https://calendar.google.com/calendar/u/0/r?cid=57c89e02aceed7d592312026d462e6565d0166ba8ac4cb3014191f6cc9e8ebff@group.calendar.google.com&pli=1)
+- [Project Manager](https://github.com/users/raqueltianna/projects/1)
