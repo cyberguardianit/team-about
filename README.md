@@ -11,7 +11,7 @@
 - [System Selection](systemselction.md)
 - [Slide Show Presentation](slideshow.md)
 - [SOPs](https://github.com/cyberguardianit/SOPs)
-- [Topologies and Visuals](topologies-and-visuals.md)
+- [Topologies and Visuals](https://github.com/cyberguardianit/Topologies-and-Visuals)
 
 ## Additional Resources
 - [Team PM Tool](https://app.slack.com/huddle/T039KG69K/C064H6LG0G6)
