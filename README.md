@@ -1,4 +1,4 @@
-![Team-Banner](https://pin.it/6vR3cfP)
+![Team-Banner](https://pin.it/6vR3cfP](https://i.pinimg.com/736x/a1/be/eb/a1beeb2b96f9c9566a6d3b85fcab1b4b.jpg)
 
 ## Team Members:
 - Dominique Bruso (Team Lead): [LinkedIn](https://www.linkedin.com/in/dominique-bruso-7005b827a/) [GitHub](https://github.com/nbruso) 
