@@ -1,3 +1,5 @@
+![Team-Banner](https://www.canva.com/design/DAF0KtqlgZE/t1QupQoEgtYc2xgZqrsqBQ/watch?utm_content=DAF0KtqlgZE&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=editor_celebratory_first_publish)
+
 ## Team Members:
 - Dominique Bruso (Team Lead): [LinkedIn](https://www.linkedin.com/in/dominique-bruso-7005b827a/) [GitHub](https://github.com/nbruso) 
 - Hector Cordova: [LinkedIn](www.linkedin.com/in/hector-a-cordova) [GitHub](https://github.com/Hector2024)
