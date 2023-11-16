@@ -2,7 +2,7 @@
 
 ## Team Members
 - Dominique Bruso (Team Lead): [LinkedIn](https://www.linkedin.com/in/dominique-bruso-7005b827a/) [GitHub](https://github.com/nbruso) 
-- Hector Cordova: [LinkedIn](https://www.linkedin.com/in/hector-a-cordova/) [GitHub](https://github.com/Hector2024)
+- Hector Cordova: [LinkedIn](www.linkedin.com/in/hector-a-cordova) [GitHub](https://github.com/Hector2024)
 - Krystal Reid: [LinkedIn](https://www.linkedin.com/in/krystalbsreid/) [GitHub](https://github.com/thechaoskrys) 
 - Scotty Jokon: [LinkedIn](https://www.linkedin.com/in/scottyjokon/) [GitHub](https://github.com/SteezyLoh)
 - Tianna Farrow: [LinkedIn](www.linkedin.com/in/tianna-farrow) [GitHub](https://github.com/raqueltianna)
