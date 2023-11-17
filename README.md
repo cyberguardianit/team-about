@@ -9,7 +9,7 @@
 
 
 ## Team Documentation
-- [Team Agreement](teamagreement.md)
+- [Team Agreement]([teamagreement.md](https://github.com/cyberguardianit/team-agreement.git))
 - [System Selection](systemselection.md)
 - [Slide Show Presentation](https://github.com/cyberguardianit/Presentation-Materials)
 - [SOPs](https://github.com/cyberguardianit/SOPs)
