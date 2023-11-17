@@ -10,7 +10,7 @@
 
 ## Team Documentation
 - [Team Agreement](https://github.com/cyberguardianit/team-agreement.git)
-- [System Selection](systemselection.md)
+- [System Selection](https://github.com/cyberguardianit/system-selection.git)
 - [Slide Show Presentation](https://github.com/cyberguardianit/Presentation-Materials)
 - [SOPs](https://github.com/cyberguardianit/SOPs)
 - [Topologies and Visuals](https://github.com/cyberguardianit/Topologies-and-Visuals)
